@@ -1,1 +1,1 @@
-# CS50-s-Introduction-to-Databases-with-SQL
+# CS50s-Introduction-to-Databases-with-SQL
